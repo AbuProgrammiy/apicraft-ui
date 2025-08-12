@@ -4,7 +4,7 @@
   bottom: 0;
   min-width: 100%;      /* Fill width */
   min-height: 100%;     /* Fill height */
-  object-fit: cover;    /* No black bars */
+  object-fit:cover;    /* No black bars */
   z-index: -1;          /* Behind content */
 }
 
